@@ -11,7 +11,7 @@ def main():
     # 描画スピード
     SLEEP_TIME = 0.1
     
-    #MazeとQLearningを用いた処理を記述
+    # MazeとQLearningを用いた処理を記述
     
 if __name__ == "__main__":
     main()

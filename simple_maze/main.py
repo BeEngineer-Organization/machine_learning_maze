@@ -19,12 +19,6 @@ def main():
     SLEEP_TIME = 0.015
     
     # MazeとQLearningを用いた処理を記述
-    
-    maze = Maze()
-    
-    while not maze.is_goal():
-        maze.draw()
-        time.sleep(SLEEP_TIME)
-    
+
 if __name__ == "__main__":
     main()

@@ -37,7 +37,7 @@ class Maze:
         return self.rows_count, self.cols_count
 
     def get_position(self):
-        return tuple(self.agent_pos)
+        return self.agent_pos
     
     def is_goal(self):
         x, y = self.agent_pos

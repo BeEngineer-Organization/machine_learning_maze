@@ -34,7 +34,7 @@ class QLearning:
     
     def reward(self):
         if self.maze.is_goal():
-            return 0 
+            return 1
         else:
             return -1
 

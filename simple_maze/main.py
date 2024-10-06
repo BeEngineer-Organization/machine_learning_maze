@@ -22,9 +22,7 @@ def main():
     
     maze = Maze()
     
-    while not maze.is_goal():
-        maze.draw()
-        time.sleep(SLEEP_TIME)
+    maze.draw()
     
 if __name__ == "__main__":
     main()

@@ -12,7 +12,7 @@ class QLearning:
 
     def from_start(self):
         self.maze.reset()
-        self.state = self.get_state()
+        self.state = self.get_state() 
 
     def step(self, learning_rate, discount_rate, random_rate):
         action = self.select_action(random_rate)

@@ -36,6 +36,5 @@ def main():
         print(f"episode : {episode} step : {step} ")
         print("\x1b[K")  # 行末までをクリア
 
-
 if __name__ == "__main__":
     main()

@@ -1,0 +1,10 @@
+実行時刻: 2024-10-08 20:54:10.993072
+episode: 4
+step: 30
+
+WWWWWW
+WS↑↓↑W
+W↓↓↑↑W
+W↓↑↓↓W
+W←↑→GW
+WWWWWW

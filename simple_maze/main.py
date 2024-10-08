@@ -35,6 +35,8 @@ def main():
             time.sleep(SLEEP_TIME)
         print(f"episode : {episode} step : {step} ")
         print("\x1b[K")  # 行末までをクリア
+        q_learn.save_q_value(f"visualized_maze_data/q_value_episode_{episode}.txt", episode, step)
+        q_learn.plot_learning_hisotry(episode, step)
 
 if __name__ == "__main__":
     main()

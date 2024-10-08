@@ -1,4 +1,10 @@
 import numpy as np
+import copy
+import datetime
+import matplotlib.pyplot as plt
+
+episode_list = []
+step_list = []
 
 class QLearning:
     def __init__(self, maze):
@@ -9,6 +15,7 @@ class QLearning:
         self.num_action = 4
         self.Q = np.zeros((self.num_state, self.num_action))
         self.state = self.get_state()
+        self.avg_annotation = None
 
     def from_start(self):
         self.maze.reset()
@@ -50,10 +57,49 @@ class QLearning:
 
     # デバッグ用メソッド
     def visualize_q_value(self):
-        pass
+        board = copy.deepcopy(self.maze.board)
+        for i in range(len(board)): 
+            for j in range(len(board[i])):
+                if board[i][j] == " ":
+                    state = i * self.maze.cols_count + j
+                    best_direction = self.Q[state, :].argmax()
+                    if best_direction == 0:
+                        arrow = "↑"
+                    elif best_direction == 1:
+                        arrow = "↓"
+                    elif best_direction == 2:
+                        arrow = "←"
+                    else:
+                        arrow = "→"
+                    board[i][j] = arrow
+        return board
     
-    def save_q_value(self):
-        pass
+    def save_q_value(self, filename, episode, step):
+        board_with_arrows = self.visualize_q_value()
+        with open(filename, "w") as file:
+            file.write(f"実行時刻: {datetime.datetime.now()}\n")
+            file.write(f"episode: {episode}\n")
+            file.write(f"step: {step}\n\n")
+            for row in board_with_arrows:
+                file.write("".join(row) + "\n")
     
-    def plot_learning_hisotry(self):
-        pass
+    def plot_learning_hisotry(self, episode, step):
+        episode_list.append(episode)
+        step_list.append(step)
+        plt.plot(episode_list, step_list)
+        annotated_flag = False
+        annotation_text = None
+        if not annotated_flag:
+            for i, value in enumerate(step_list):
+                if value <= 200:
+                    annotation_text = f"Episode count to reach goal in under 200 step: {i}"
+                    plt.annotate(annotation_text, xy=(0.95, 0.9), xycoords="axes fraction", ha='right', va='top')
+                    annotated_flag = True
+                    break
+        avg_steps = f"average steps:{int(sum(step_list) / len(step_list))}"
+        if self.avg_annotation is not None:
+            self.avg_annotation.remove()
+        self.avg_annotation = plt.annotate(avg_steps, xy=(0.95, 0.95), xycoords="axes fraction", ha="right", va="top")
+        plt.xlabel("episodes")
+        plt.ylabel("steps")
+        plt.savefig("step_transition.png")

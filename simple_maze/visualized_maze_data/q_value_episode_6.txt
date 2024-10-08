@@ -1,0 +1,10 @@
+実行時刻: 2024-10-08 20:54:11.659803
+episode: 6
+step: 19
+
+WWWWWW
+WS↑↓↑W
+W→↑↑↑W
+W←↑↑↓W
+W↓←→GW
+WWWWWW

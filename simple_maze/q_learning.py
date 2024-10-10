@@ -41,7 +41,13 @@ class QLearning:
         return x * col + y
     
     def reward(self):
-        if self.maze.is_goal():
+        if self.maze.is_checkpoint():
+            return 1
+        elif self.maze.is_penalty_point():
+            return -1
+        elif self.maze.is_start():
+            return -1
+        elif self.maze.is_goal():
             return 1
         else:
             return -1

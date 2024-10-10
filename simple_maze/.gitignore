@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .venv
 visualized_maze_data/
+step_transition.png

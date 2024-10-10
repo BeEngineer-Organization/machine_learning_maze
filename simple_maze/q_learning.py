@@ -16,6 +16,7 @@ class QLearning:
         self.Q = np.zeros((self.num_state, self.num_action))
         self.state = self.get_state()
         self.avg_annotation = None
+        self.annotated_flag = False
 
     def from_start(self):
         self.maze.reset()
@@ -86,20 +87,20 @@ class QLearning:
     def plot_learning_hisotry(self, filename, episode, step):
         episode_list.append(episode)
         step_list.append(step)
+        plt.xlabel("episodes")
+        plt.ylabel("steps")
         plt.plot(episode_list, step_list)
-        annotated_flag = False
-        annotation_text = None
-        if not annotated_flag:
-            for i, value in enumerate(step_list):
-                if value <= 200:
-                    annotation_text = f"Episode count to reach goal in under 200 step: {i}"
-                    plt.annotate(annotation_text, xy=(0.95, 0.9), xycoords="axes fraction", ha='right', va='top')
-                    annotated_flag = True
-                    break
+        # 平均ステップ数を注釈に追加
         avg_steps = f"average steps:{int(sum(step_list) / len(step_list))}"
         if self.avg_annotation is not None:
             self.avg_annotation.remove()
         self.avg_annotation = plt.annotate(avg_steps, xy=(0.95, 0.95), xycoords="axes fraction", ha="right", va="top")
-        plt.xlabel("episodes")
-        plt.ylabel("steps")
+        # 200step数以下に達したら一度だけ注釈を追加
+        if not self.annotated_flag:
+            for i, value in enumerate(step_list):
+                if value <= 200:
+                    annotation_text = f"Episode count to reach goal in under 200 step: {i}"
+                    plt.annotate(annotation_text, xy=(0.95, 0.9), xycoords="axes fraction", ha='right', va='top')
+                    self.annotated_flag = True
+                    break
         plt.savefig(filename)

@@ -9,7 +9,7 @@ def main():
     ## Q学習で必要な条件
     
     # 何回ゴールするか
-    EPISODE_MAX = 20
+    EPISODE_MAX = 100
     # ゴールまでの打ち切りステップ数
     STEP_MAX = 3000
     # 学習率

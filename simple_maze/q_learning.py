@@ -58,10 +58,10 @@ class QLearning:
     # デバッグ用メソッド
     def visualize_q_value(self):
         board = copy.deepcopy(self.maze.board)
+        state = self.get_state()
         for i in range(len(board)): 
             for j in range(len(board[i])):
                 if board[i][j] == " ":
-                    state = i * self.maze.cols_count + j
                     best_direction = self.Q[state, :].argmax()
                     if best_direction == 0:
                         arrow = "↑"

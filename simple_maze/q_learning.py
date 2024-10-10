@@ -83,7 +83,7 @@ class QLearning:
             for row in board_with_arrows:
                 file.write("".join(row) + "\n")
     
-    def plot_learning_hisotry(self, episode, step):
+    def plot_learning_hisotry(self, filename, episode, step):
         episode_list.append(episode)
         step_list.append(step)
         plt.plot(episode_list, step_list)
@@ -102,4 +102,4 @@ class QLearning:
         self.avg_annotation = plt.annotate(avg_steps, xy=(0.95, 0.95), xycoords="axes fraction", ha="right", va="top")
         plt.xlabel("episodes")
         plt.ylabel("steps")
-        plt.savefig("step_transition.png")
+        plt.savefig(filename)

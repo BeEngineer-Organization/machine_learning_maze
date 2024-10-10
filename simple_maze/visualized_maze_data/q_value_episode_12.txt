@@ -1,10 +1,19 @@
-実行時刻: 2024-10-08 20:54:13.532797
+実行時刻: 2024-10-10 13:59:11.487426
 episode: 12
-step: 6
+step: 449
 
-WWWWWW
-WS↓←←W
-W↑→↓↓W
-W↑→↓↓W
-W→→→GW
-WWWWWW
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↓↓↑→→↑↑→↓→W↑WW→↓↓W←↑W
+W←WWWWWW↑WWW←↓W↑←WWW→WW
+W→↓↓↑↓↓←↓↑↓→↑↓W↓↓↓←←→↑W
+W→WW→W←WWWW↑WW↑←WWW←→WW
+W←W←↓WWW→W↑↓←→W→↓W↑↓↑↑W
+W←W←←↑↑↓←WWW→→W→WWWW→WW
+W←W↓→W→W←↓W↓↑WW↑↓↑W↓↓↑W
+W←W→WWWW↑WWW←↑WWW↑WWW↑W
+W→W←→W↑W←W←↓←WW↑W↑W↑→↑W
+W↓W←→↓←←→↑WW↓←←→↓↑↑↓→↓W
+W←←↓W←W↓W↑↑↓↓→W←→W←→W↓W
+WWW↑↑←↑↓WW←WW←WWWW↓WW↓W
+W→↑→W→W←↓↑WW←→W↓↑↑←→→GW
+WWWWWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 18:35:02.386310
+episode: 1
+step: 1423
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑↑W↑WW↑↑↑W↑PW
+W↑WWWWWW↑WWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWW↑WW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑W↑↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑↑W↑↑↑W
+W↑W↑WWWW↑WWW↑↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑C↑WW↑↑↑↑↑↑↑↑↑↑W
+WC↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑WCW
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+WP↑↑W↑W↑↑PWW↑↑WP↑↑↑↑↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

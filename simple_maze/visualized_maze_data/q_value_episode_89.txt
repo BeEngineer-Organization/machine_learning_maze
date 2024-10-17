@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:24:55.844534
+episode: 89
+step: 111
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWWCWWW↑↑W↑↑WWW↑WW
+W↑↑↑C↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑C↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑WPW↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+W↑↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+WP↑↑W↑W↑↑PWWP↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

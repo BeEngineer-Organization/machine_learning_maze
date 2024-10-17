@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:19:49.451115
+episode: 15
+step: 587
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWWCWWW↑↑W↑↑WWW↑WW
+W↑↑↑C↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+W↑↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+W↑↑↑W↑W↑↑PWW↑↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:22:16.662448
+episode: 38
+step: 615
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWW↑WWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+W↑↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+W↑↑↑W↑W↑↑PWW↑↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

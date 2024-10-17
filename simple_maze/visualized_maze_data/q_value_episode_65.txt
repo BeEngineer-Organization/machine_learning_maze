@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:23:53.162048
+episode: 65
+step: 114
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWWCWWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑C↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑WPW↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+WC↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+WP↑↑W↑W↑↑PWW↑↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

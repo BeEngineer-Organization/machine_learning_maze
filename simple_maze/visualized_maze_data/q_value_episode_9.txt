@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:18:51.897695
+episode: 9
+step: 1257
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PW↑WW↑↑↑W↑PW
+W↑WWWWWW↑WWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWW↑WW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWW↑↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+W↑↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑WCW
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+W↑↑↑W↑W↑↑PWW↑↑W↑↑↑↑↑↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

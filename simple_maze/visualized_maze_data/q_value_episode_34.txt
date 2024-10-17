@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:21:48.401889
+episode: 34
+step: 271
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑↑W↑WW↑↑↑W↑PW
+W↑WWWWWW↑WWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWW↑WW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑C↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑WPW↑↑W↑↑WW↑↑CW↑↑↑W
+W↑W↑WWWW↑WWW↑↑WWW↑WWW↑W
+W↑WC↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑C↑WW↑↑↑↑↑↑↑↑↑↑W
+WC↑↑W↑W↑W↑↑C↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+WP↑↑W↑W↑↑PWWP↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

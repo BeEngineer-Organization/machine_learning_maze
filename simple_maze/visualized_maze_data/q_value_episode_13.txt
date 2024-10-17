@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:19:36.461635
+episode: 13
+step: 782
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWW↑WWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑W↑↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑↑W↑↑↑W
+W↑W↑WWWW↑WWW↑↑WWW↑WWW↑W
+W↑W↑↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+WC↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑W↑W
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+W↑↑↑W↑W↑↑PWWP↑WP↑↑↑C↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

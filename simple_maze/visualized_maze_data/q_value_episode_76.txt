@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:24:27.691918
+episode: 76
+step: 143
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWWCWWW↑↑W↑↑WWW↑WW
+W↑↑↑C↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑C↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑WPW↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑WC↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+W↑↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑WCW
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+W↑↑↑W↑W↑↑PWWP↑WP↑↑↑↑↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

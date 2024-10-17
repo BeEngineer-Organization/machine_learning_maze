@@ -1,0 +1,19 @@
+実行時刻: 2024-10-10 19:24:49.599604
+episode: 85
+step: 140
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS↑↑↑↑↑↑↑↑↑PWPWW↑↑↑W↑PW
+W↑WWWWWWCWWW↑↑W↑↑WWW↑WW
+W↑↑↑↑↑↑↑↑↑↑↑↑↑W↑↑↑↑↑↑↑W
+W↑WW↑W↑WWWWCWW↑↑WWW↑↑WW
+W↑W↑↑WWW↑W↑↑↑↑W↑↑WP↑↑↑W
+W↑W↑↑↑↑↑↑WWW↑↑W↑WWWW↑WW
+W↑W↑↑W↑W↑↑W↑↑WW↑↑CW↑C↑W
+W↑W↑WWWW↑WWWC↑WWW↑WWW↑W
+W↑WC↑W↑W↑W↑↑↑WW↑W↑W↑↑↑W
+W↑W↑↑↑↑↑↑↑WW↑↑↑↑↑↑↑↑↑↑W
+WC↑↑W↑W↑W↑↑↑↑↑W↑↑W↑↑WCW
+WWW↑↑↑↑↑WW↑WW↑WWWW↑WW↑W
+WP↑↑W↑W↑↑PWWP↑WP↑↑↑↑↑GW
+WWWWWWWWWWWWWWWWWWWWWWW

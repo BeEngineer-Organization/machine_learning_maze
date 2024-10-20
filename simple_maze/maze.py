@@ -23,8 +23,8 @@ class Maze:
         self.agent_pos = self.start_pos
 
     def draw(self):
-        # print("\x1b[0;0H")  # 画面をクリア
-        print("\x1b[2J\x1b[H") # 画面全体をクリア
+        print("\x1b[0;0H")  # 画面をクリア
+        # print("\x1b[2J\x1b[H") # 画面全体をクリア
         for i in range(self.rows_count):
             for j in range(self.cols_count):
                 if [i, j] == self.agent_pos:

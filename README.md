@@ -1,0 +1,2 @@
+プロジェクト直下に
+visualized_maze_dataフォルダを作成する。

@@ -21,16 +21,8 @@ class Maze:
                 elif self.board[i][j] == "G":
                     self.goal_pos = (i, j)
         self.agent_pos = self.start_pos
-        print(self.agent_pos)
-    
-    def is_goal(self):
-        pass
-    
-    def move(self):
-        pass
     
     def draw(self):
-        # print("\x1b[0;0H")  # 画面をクリア
         print("\x1b[2J\x1b[H") # 画面全体をクリア
         for i in range(self.rows_count):
             for j in range(self.cols_count):
@@ -40,13 +32,19 @@ class Maze:
                     print(self.board[i][j], end="")
             print(" ")  # 改行
 
-    def reset(self):
+    def get_board_size(self):
         pass
-    
+
     def get_position(self):
         pass
     
-    def board_size(self):
+    def is_goal(self):
+        pass
+    
+    def move(self):
+        pass
+
+    def reset(self):
         pass
     
     

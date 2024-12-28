@@ -28,7 +28,7 @@ class QLearning:
     def save_q_value(self):
         pass
     
-    def plot_learning_hisotry(self):
+    def plot_learning_history(self):
         pass
 
     

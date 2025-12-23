@@ -26,7 +26,7 @@ class Maze:
         print("\x1b[2J\x1b[H") # 画面全体をクリア
         for i in range(self.rows_count):
             for j in range(self.cols_count):
-                if (i, j) == self.agent_pos:
+                if [i, j] == self.agent_pos:
                     print("A", end="")
                 else:
                     print(self.board[i][j], end="")

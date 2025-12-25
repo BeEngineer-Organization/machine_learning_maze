@@ -20,7 +20,7 @@ class Maze:
                     self.start_pos = (i, j)
                 elif self.board[i][j] == "G":
                     self.goal_pos = (i, j)
-        self.agent_pos = self.start_pos
+        self.agent_pos = list(self.start_pos)
     
     def draw(self):
         print("\x1b[2J\x1b[H") # 画面全体をクリア
